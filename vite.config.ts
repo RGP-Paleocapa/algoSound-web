@@ -16,7 +16,7 @@ export default defineConfig({
       '@assets': path.resolve(__dirname, './src/assets/'),
       '@public': path.resolve(__dirname, './public/'),
     },  
-  },
+  }, 
   plugins: [react()],
   base: "/algoSound-web/",
 })
