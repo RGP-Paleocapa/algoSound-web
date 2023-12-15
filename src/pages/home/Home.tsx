@@ -34,7 +34,7 @@ const Home = () => {
                     Aliquam a orci at nulla accumsan consectetur. Curabitur 
                     ullamcorper bibendum metus, id posuere nulla rhoncus sed.
                 </p>
-            </section>
+            </section> 
         </>
     );
 }
