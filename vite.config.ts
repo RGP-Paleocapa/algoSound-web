@@ -18,5 +18,5 @@ export default defineConfig({
     },  
   },
   plugins: [react()],
-  base: "/cpuvsim/",
+  base: "/algoSound-web/",
 })
